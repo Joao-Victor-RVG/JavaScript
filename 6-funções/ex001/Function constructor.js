@@ -22,3 +22,8 @@ console.log(joao.walk( ))
 
 
 
+// Outro exemplo de Funções construtores  com JavaScript
+
+let date = new Date("2022-09-29")
+console.log(date)
+
