@@ -10,3 +10,5 @@
 let word = "programar é legal"
 console.log(word.toUpperCase)
 console.log(word.toLocaleLowerCase)
+
+
