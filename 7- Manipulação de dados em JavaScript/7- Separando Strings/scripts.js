@@ -6,9 +6,10 @@
 */
 
 
-let frase = "Eu gosto muito de nadar"
+let phrase = "Eu gosto muito de nadar"
 
 let myArray = frase.split("")
 
-
+let phraseWithUnderscore = myArray.join(" _ ")
+console.log(phraseWithUnderscore.toLowerCase())
 
