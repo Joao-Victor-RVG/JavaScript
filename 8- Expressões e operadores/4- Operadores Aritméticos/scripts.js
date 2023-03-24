@@ -22,6 +22,3 @@ let decrement = 0
 console.log(decrement--)
 // Exponencial
 console.log(3 ** 3)
-
-
-
